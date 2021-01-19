@@ -7,7 +7,7 @@ This schedule maps out what we are covering in class each week and what work we 
 
 If you want to know what is due for next class, [check here]({{ site.baseurl }}/due).
 
-### August 25 &mdash; Week 1
+### January 28 &mdash; Week 1
 In our first week we will go over the framework for the class, meet each other, and make a gif.
 
 #### Lessons
@@ -23,7 +23,7 @@ In our first week we will go over the framework for the class, meet each other, 
 
 ---
 
-### September 1 &mdash; Week 2
+### February 4 &mdash; Week 2
 Motion projects take thought and planning to execute well. This week we will cover the process of storyboarding, creating concept boards, and cover other parts of the planning process.
 
 #### Lessons
@@ -38,7 +38,7 @@ Motion projects take thought and planning to execute well. This week we will cov
 
 ---
 
-### September 8 &mdash; Week 3
+### February 11 &mdash; Week 3
 After Effects is a complex and powerful program which we will only start to understand in this class. This week we will introduce the After Effects interface and the primary tools used creating motion.
 
 #### Class
@@ -56,7 +56,7 @@ After Effects is a complex and powerful program which we will only start to unde
 
 ---
 
-### September 15 &mdash; Week 4
+### February 18 &mdash; Week 4
 Taking our knowledge a little further we will talk about the 12 Principles of Animation and introduce some new tools in After Effects.
 
 #### Class
@@ -75,7 +75,7 @@ Taking our knowledge a little further we will talk about the 12 Principles of An
 
 ---
 
-### September 22 &mdash; Week 5
+### February 25 &mdash; Week 5
 The two topics covered this week are important for any motion project. Cuts and transitions allow the story to move from one scene to the next and inside After Effects the graph editor allows for fine control over the speed of motion to help it feel more realistic.
 
 #### Class
@@ -95,7 +95,7 @@ The two topics covered this week are important for any motion project. Cuts and 
 
 ---
 
-### September 29 &mdash; Week 6
+### March 4 &mdash; Week 6
 We dive a little deeper into After Effects this week looking at some animation techniques and reviewing masks and mattes.
 
 #### Class Lessons
@@ -113,7 +113,7 @@ We dive a little deeper into After Effects this week looking at some animation t
 
 ---
 
-### October 6 &mdash; Week 7
+### March 11 &mdash; Week 7
 Our After Effects training has generally come to an end by this week and we start to begin the final project. This week we will cover ideas about title sequences and moving posters.
 
 #### Class Lessons
@@ -132,7 +132,7 @@ Our After Effects training has generally come to an end by this week and we star
 
 ---
 
-### October 13 &mdash; Week 8
+### March 18 &mdash; Week 8
 Individual meetings this week to present your final project beginnings.
 
 #### Lessons
@@ -146,7 +146,7 @@ Individual meetings this week to present your final project beginnings.
 
 ---
 
-### October 20 &mdash; Week 9
+### March 25 &mdash; Week 9
 We will take another look at title sequences and a few kinetic type videos. The main focus will be be reviewing the work for Project 3.
 
 #### Lessons
@@ -160,8 +160,8 @@ We will take another look at title sequences and a few kinetic type videos. The 
 
 ---
 
-### October 27 &mdash; Week 10
-Come to class ready to work with your spookiest ideas. This week you will create a video in class and we will screen them all at the end. We will also cover the main ideas of what logo reveals should accomplish and then create our own.
+### April 1 &mdash; Week 10
+Come to class ready to work with your best ideas. This week you will create a video in class and we will screen them all at the end. We will also cover the main ideas of what logo reveals should accomplish and then create our own.
 
 #### Lessons
 * 9.1: Logo Reveals
@@ -175,26 +175,7 @@ Come to class ready to work with your spookiest ideas. This week you will create
 
 ---
 
-### November 3 &mdash; Week 11
-Election Day, no class. Go vote if you haven't yet! 10 minute meetings available through the office hours link.
-
----
-
-### November 10 &mdash; Week 12
-To get back in the swing of things after election day we will review some exercises and meet in groups about project 3.
-
-#### Lessons
-* None
-
-#### Starting
-* Nothing
-
-#### Digital References
-* None
-
----
-
-### November 17 &mdash; Week 13
+### April 8 &mdash; Week 11
 Individual meetings this week to look at your projects. For an out of class activity watch the tutorials below on expressions.
 
 #### Lessons
@@ -211,7 +192,7 @@ Individual meetings this week to look at your projects. For an out of class acti
 
 ---
 
-### November 24 &mdash; Week 14
+### April 15 &mdash; Week 12
 Group meetings to discuss your projects.
 
 #### Lessons
@@ -225,7 +206,21 @@ Group meetings to discuss your projects.
 
 ---
 
-### December 1 &mdash; Week 15
+### April 22 &mdash; Week 13
+Group meetings to discuss your projects.
+
+#### Lessons
+* Group meetings
+
+#### Starting
+* Nothing
+
+#### Digital References
+* None
+
+---
+
+### April 29 &mdash; Week 14
 The final week to review any odds and ends.
 
 #### Lessons
