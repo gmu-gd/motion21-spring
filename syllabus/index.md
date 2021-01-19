@@ -4,28 +4,23 @@ title: Syllabus
 ---
 ### General
 
-This is the syllabus for the _Fall 2020_ class of _AVT 411: Motion Design (3 credits)_. The instructor is _Michael McDermott_, can be reached by email at _mmcderm8 at gmu dot edu_, and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Mondays from 12&ndash;2, Wednesdays from 10&ndash;12, and Fridays from 12&ndash;2.
+This is the syllabus for the _Spring 2021_ class of _AVT 411: Motion Design (3 credits)_. The instructor is _Michael McDermott_, can be reached by email at _mmcderm8 at gmu dot edu_, and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Mondays from 12&ndash;2, Wednesdays from 10&ndash;12, and Fridays from 12&ndash;2.
 
 ### Delivery and Timing
-
-This is a synchronous online course. That means we will meet once a week on Tuesdays from 1:30 to 4:10. These meetings are required and will also be recorded for later review. The class is currently scheduled to run for 15 weeks and you can expect to work for 6 hours outside of class each week.
+This is a synchronous online course. That means we will meet once a week on Thursdays from 10:30 to 1:10. These meetings are required and will also be recorded for later review. The class is currently scheduled to run for 14 weeks and you can expect to work for 6 hours outside of class each week.
 
 ### Prerequisites
-
 AVT 217: Intro to Web Design and AVT 311: Graphic Design Principles and Methods
 
 ### Course Description
-
-Motion Design introduces the theories, techniques and practices of motion design and the integration of design, image, sound, video and animation.
+Motion Design introduces the theories, techniques and practices of motion design and the integration of design, image, sound, video, and animation.
 
 ### Overview
-
-This is not a software training course. Although there will be occasional in-class software demos a majority of the skill with the software will need to be self taught. Through the exercises, in-class workshops, projects, and critiques the students will learn the fundamental principles of time-based design grounded in traditional design principles.
+This is not a software training course. Although there will be occasional in-class software demos a majority of the software skills will need to be self taught. Through the exercises, in-class workshops, projects, and critiques the students will learn the fundamental principles of time-based design grounded in traditional design principles.
 
 Participants should finish the course with a working knowledge of motion design principles and methods as well as a better understanding of the production side of the medium.
 
 ### Objectives
-
 * To improve general design skills
 * To have an understanding of storyboarding
 * To understand the technical aspects of motion design
@@ -33,38 +28,34 @@ Participants should finish the course with a working knowledge of motion design 
 * To understand how static design principles apply to a motion-based medium
 
 ### Textbook
-
 There is no textbook for this course.
 
 ### Programs
 
 #### design
-You must have After Effects to participate in this course. We will also use Photoshop and Illustrator to produce assets and other files throughout the semester.
+You must have After Effects to participate in this course. We will also use Photoshop and Illustrator to produce assets and other files throughout the semester. See Technology Requirements on for more information.
 
 #### other
-
-Zoom (holding class sessions), Slack (communication platform), Chrome, Safari, Firefox, or some other internet browser (accessing class website and uploading videos)
+Zoom (holding class sessions), Slack (communication platform), Chrome, Safari, Firefox, or some other internet browser (accessing class website and uploading videos), and a Vimeo account.
 
 ### Content
-
-This course consists of many shorter exercises, a few longer projects, quizzes, and discussion board requirements. The exercises are to begin to familiarize students with specific concepts and ideas and the project is a synthesis of the concepts and ideas we will cover. Quizzes will review information from the lessons and the discussion board posts will be used for critiques and analysis of relevant topics.
+This course consists of many shorter exercises, a few longer projects, quizzes, and discussion requirements. The exercises are to begin to familiarize students with specific concepts and ideas and the projects are a synthesis of the concepts and ideas we will cover. Quizzes will review information from the lessons and the discussion posts will be used for critiques and analysis of relevant topics.
 
 #### project 1: a simple sequence
-
-Conceptions of time start to get fuzzy when dealing with individual frames. A 10 second video at 30 frames a second needs 300 frames to fill that time. This project will focus on the importance designing for motion without actually animating anything. Students will create storyboards, animatics, and key frames of a sequence. [More information here]({{ site.baseurl }}/projects).
+Concepts of time start to get fuzzy when dealing with individual frames. A 10 second video at 30 frames a second needs 300 frames to fill that time. This project will focus on the importance of designing for motion without actually animating anything. Students will create storyboards, reference boards, and concept boards for a short sequence. The sequence will not be animated. [More information here]({{ site.baseurl }}/projects).
 
 
 #### project 2: obstructions
-
-Obstructions in design can seem like a burden but being able to use them as a creative starting point is key. Students will create a short video and then create the same video three more times. Each new video will be create using a series of obstructions chosen in class. [More information here]({{ site.baseurl }}/projects).
+Obstructions in design can seem like a burden but being able to use them as a creative starting point is key. Students will create a short video and then create the same video three more times. Each new video will be created using a series of obstructions chosen in class. [More information here]({{ site.baseurl }}/projects).
 
 #### project 3: [various]
-
 Project three will give you the option of coming up with your own project or choosing from one of the projects I have listed. The project will be a culmination of the skills and concepts you have learned throughout this course. [More information here]({{ site.baseurl }}/projects).
 
-### Schedule
+### Weekly Schedule
+Class is on Thursdays from 10:30&ndash;1:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. All work is due the Wednesday before class by 11:59pm ET. This will allow me time to review before class and make sure you aren't working at 3am. Time management is an important skill to master and, more importantly, you need to sleep.
 
-The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this fall. It is subject to additions and subtractions.
+### Schedule
+The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this spring. It is subject to additions and subtractions.
 
 ### Virtual Meeting Guide
 
