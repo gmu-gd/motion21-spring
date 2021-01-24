@@ -57,7 +57,7 @@ Class is on Thursdays from 10:30&ndash;1:10. Most days we will meet for the enti
 ### Semester Schedule
 The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this spring. It is subject to additions and subtractions.
 
-###Engagement
+### Engagement
 This course has an engagement policy instead of an attendance policy. Your engagement will affect your final grade (and, by extension, the quality of your work) for this course. You are expected to actively and passionately take part in this course in the following ways.
 
 * Attend class meetings (see 01 and 02 of the virtual meeting guide).
