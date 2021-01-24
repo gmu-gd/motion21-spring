@@ -33,7 +33,7 @@ There is no textbook for this course.
 ### Programs
 
 #### design
-You must have After Effects to participate in this course. We will also use Photoshop and Illustrator to produce assets and other files throughout the semester. See Technology Requirements on for more information.
+You must have After Effects to participate in this course. We will also use Photoshop and Illustrator to produce assets and other files throughout the semester. See Technology Requirements for more information.
 
 #### other
 Zoom (holding class sessions), Slack (communication platform), Chrome, Safari, Firefox, or some other internet browser (accessing class website and uploading videos), and a Vimeo account.
@@ -57,6 +57,17 @@ Class is on Thursdays from 10:30&ndash;1:10. Most days we will meet for the enti
 ### Semester Schedule
 The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this spring. It is subject to additions and subtractions.
 
+###Engagement
+This course has an engagement policy instead of an attendance policy. Your engagement will affect your final grade (and, by extension, the quality of your work) for this course. You are expected to actively and passionately take part in this course in the following ways.
+
+* Attend class meetings (see 01 and 02 of the virtual meeting guide).
+* Create things and be prepared to show them on time.
+* Make things thoughtfully, intentionally, and with intensity.
+* Meet all deadlines for handing in work and process.
+* Actively participate in critiques both in class and out of class.
+* Be curious about making things and the things your classmates make.
+* Care about yourself & your work, your classmates & their work, and this class.
+
 ### Discussion of Work
 You will need to take an active role in both the presentation and discussion of your work. We will review projects in a variety of ways and you are expected to be able to talk and type about your own work and give feedback to your peers about their work. The ability to discuss your work and other student’s work is a very important part of your education at Mason. Use this class to improve on those skills.
 
@@ -66,7 +77,7 @@ Grades will be based on your quizzes (10%), engagement (25%),  exercises (25%), 
 #### Quizzes (10%)
 Each week will have a 5 question quiz based on the topics covered that week. You can use any resources available to you during the quizzes and take them as many times as you want until the quiz is due.
 
-#### Participation (25%)
+#### Engagement (25%)
 This percentage will be based on your engagement in the class which is explained on previous pages but will include attendance, discussion assignments, critiques, and participation in our virtual channels (Slack and Zoom). Be engaged in this course and its content throughout the semester and this should be an easy 25%.
 
 #### Exercises (25%)
@@ -76,7 +87,7 @@ The exercises are graded using a basic rubric available on Blackboard or the PDF
 Each project will generate two different grades. One grade will be based on your ability to submit the required, weekly checkpoints for the project. These weekly checkpoints use a simple rubric based on your effort, timeliness, improvement, and completion. The second grade will be based on the final project you submit and has a more extensive rubric. At the end of the semester you will have 6 total project grades that are all weighted equally for this 40%. The rubrics used for grading the checkpoints and projects are available on Blackboard or the PDF syllabus.
 
 ### Rubrics
-Exercises and projects use rubrics to grade. Review the rubrics to get an idea of how each exercise and project is graded and what is expected of you. The rubrics are on the are viewable for each assignment on Blackboard or in the PDF syllabus.
+Exercises and projects use rubrics for grading. Review the rubrics to get an idea of how each exercise and project is graded and what is expected of you. The rubrics are on the are viewable for each assignment on Blackboard or in the PDF syllabus.
 
 ### Visual Voices Lecture Series
 Visual Voices is a year-long series of lectures by artists, art historians and others about contemporary art and art practice. Visual Voices lectures are held on four Thursday evenings from 7:20&ndash;9:00 pm.
