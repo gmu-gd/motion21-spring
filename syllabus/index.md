@@ -51,6 +51,18 @@ Obstructions in design can seem like a burden but being able to use them as a cr
 #### project 3: [various]
 Project three will give you the option of coming up with your own project or choosing from one of the projects I have listed. The project will be a culmination of the skills and concepts you have learned throughout this course. [More information here]({{ site.baseurl }}/projects).
 
+### Virtual Meeting Guide
+A few points to guide our virtual meetings. These are not demands but a guide to help us have a more engaging and productive meeting.
+
+1. Be on time.
+2. Even better, be early.
+3. Have your video on.
+4. Mute yourself when you aren't speaking.
+5. Use the chat.
+6. Pay attention, don't multitask.
+7. Try and be in a calm, quiet space.
+8. Be engaged and prepared.
+
 ### Weekly Schedule
 Class is on Thursdays from 10:30&ndash;1:10. Most days we will meet for the entire time but some weeks we will have individual meetings or end early. All work is due the Wednesday before class by 11:59pm ET. This will allow me time to review before class and make sure you aren't working at 3am. Time management is an important skill to master and, more importantly, you need to sleep.
 
