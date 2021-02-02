@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 author: Michael McDermott
-title: Elizabeth
+title: Ellie
 categories: [student]
-link: #
+link: https://vimeo.com/user132062035
 ---
