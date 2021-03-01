@@ -72,7 +72,6 @@ Taking our knowledge a little further we will talk about the 12 Principles of An
 * _Alan Becker Tutorials:_ [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
 * _Adobe:_ [Control Animation of Multiple Layers with Parenting](https://helpx.adobe.com/after-effects/how-to/animating-with-parenting.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
 
-
 ---
 
 ### February 25 &mdash; Week 5
@@ -103,7 +102,7 @@ We dive a little deeper into After Effects this week looking at some animation t
 * 6.2: Masks and Mattes
 
 #### Starting
-* E6: [Bouncing Ball]({{ site.baseurl }}/projects#e6)
+* E6: Bouncing Ball <!-- [Bouncing Ball]({{ site.baseurl }}/projects#e6) -->
 
 #### Digital References
 * _School of Motion:_ [How to Use Masks in After Effects](https://www.schoolofmotion.com/blog/how-to-use-masks-in-after-effects)
@@ -122,7 +121,7 @@ Our After Effects training has generally come to an end by this week and we star
 
 #### Starting
 * E7: Poster Animation <!--[Poster Animation]({{ site.baseurl }}/projects#e7)-->
-* P3: Start <!-- [Start]({{ site.baseurl }}/projects/p3) -->
+* P3: Something in Motion <!-- [Something in Motion]({{ site.baseurl }}/projects/p3) -->
 
 #### Digital References
 * _Adobe:_ [Make Text Write Itself](https://helpx.adobe.com/after-effects/how-to/write-on-effect.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/set-header:projects-to-get-started/en_us.json&ref=helpx.adobe.com)
@@ -168,7 +167,7 @@ Come to class ready to work with your best ideas. This week you will create a vi
 
 #### Starting
 * In class video project
-* E8: [Logo Reveal]({{ site.baseurl }}/projects#e8)
+* E8: Logo Reveal <!-- [Logo Reveal]({{ site.baseurl }}/projects#e8) -->
 
 #### Digital References
 * _Adobe:_ [Animate a Title Reveal](https://helpx.adobe.com/after-effects/how-to/animate-title-reveal.html?playlist=/services/playlist.helpx/set-header:after-effects-projects/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/en_us.json&ref=helpx.adobe.com)
@@ -183,7 +182,7 @@ Individual meetings this week to look at your projects. For an out of class acti
 * Individual Meetings
 
 #### Starting
-* E9: [Wash, Rinse, Repeat (optional)]({{ site.baseurl }}/projects#e9)
+* E9: Wash, Rinse, Repeat <!-- [Wash, Rinse, Repeat (optional)]({{ site.baseurl }}/projects#e9) -->
 
 #### Digital References
 * _School of Motion:_ [After Effects Expressions 101](https://www.schoolofmotion.com/blog/after-effects-expressions-101)
