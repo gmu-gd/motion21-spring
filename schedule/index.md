@@ -120,8 +120,8 @@ Our After Effects training has generally come to an end by this week and we star
 * 7.2: Title Sequences
 
 #### Starting
-* E7: Poster Animation <!--[Poster Animation]({{ site.baseurl }}/projects#e7)-->
-* P3: Something in Motion <!-- [Something in Motion]({{ site.baseurl }}/projects/p3) -->
+* E7: [Poster Animation]({{ site.baseurl }}/projects#e7)
+* P3: [Something in Motion]({{ site.baseurl }}/projects/p3)
 
 #### Digital References
 * _Adobe:_ [Make Text Write Itself](https://helpx.adobe.com/after-effects/how-to/write-on-effect.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/set-header:projects-to-get-started/en_us.json&ref=helpx.adobe.com)
