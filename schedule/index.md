@@ -166,8 +166,7 @@ Come to class ready to work with your best ideas. This week you will create a vi
 * 9.1: Logo Reveals
 
 #### Starting
-* In class video project
-* E8: Logo Reveal <!-- [Logo Reveal]({{ site.baseurl }}/projects#e8) -->
+* E8: [Logo Reveal]({{ site.baseurl }}/projects#e8)
 
 #### Digital References
 * _Adobe:_ [Animate a Title Reveal](https://helpx.adobe.com/after-effects/how-to/animate-title-reveal.html?playlist=/services/playlist.helpx/set-header:after-effects-projects/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/playlist:topic/en_us.json&ref=helpx.adobe.com)
@@ -175,14 +174,14 @@ Come to class ready to work with your best ideas. This week you will create a vi
 ---
 
 ### April 8 &mdash; Week 11
-Individual meetings this week to look at your projects. For an out of class activity watch the tutorials below on expressions.
+Individual meetings this week to look at your projects. For an out of class activity watch the tutorials below on expressions and complete the optional E9.
 
 #### Lessons
 * 9.1: Expressions (look at Digital Resources)
 * Individual Meetings
 
 #### Starting
-* E9: Wash, Rinse, Repeat <!-- [Wash, Rinse, Repeat (optional)]({{ site.baseurl }}/projects#e9) -->
+* E9: Wash, Rinse, Repeat (optional) <!-- [Wash, Rinse, Repeat (optional)]({{ site.baseurl }}/projects#e9) -->
 
 #### Digital References
 * _School of Motion:_ [After Effects Expressions 101](https://www.schoolofmotion.com/blog/after-effects-expressions-101)
