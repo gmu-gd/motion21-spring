@@ -174,27 +174,10 @@ Come to class ready to work with your best ideas. This week you will create a vi
 ---
 
 ### April 8 &mdash; Week 11
-Individual meetings this week to look at your projects. For an out of class activity watch the tutorials below on expressions and complete the optional E9.
+Individual meetings this week to look at your projects.
 
 #### Lessons
-* 9.1: Expressions (look at Digital Resources)
-* Individual Meetings
-
-#### Starting
-* E9: Wash, Rinse, Repeat (optional) <!-- [Wash, Rinse, Repeat (optional)]({{ site.baseurl }}/projects#e9) -->
-
-#### Digital References
-* _School of Motion:_ [After Effects Expressions 101](https://www.schoolofmotion.com/blog/after-effects-expressions-101)
-* _School of Motion:_ [Amazing Expressions in After Effects](https://www.schoolofmotion.com/blog/amazing-expressions-in-after-effects)
-* _School of Motion:_ [How to Use the Loop Expression in After Effects](https://www.schoolofmotion.com/blog/loop-expression-after-effects)
-
----
-
-### April 15 &mdash; Week 12
-Group meetings to discuss your projects.
-
-#### Lessons
-* Group meetings
+* Individual meetings
 
 #### Starting
 * Nothing
@@ -204,11 +187,27 @@ Group meetings to discuss your projects.
 
 ---
 
-### April 22 &mdash; Week 13
-Group meetings to discuss your projects.
+### April 15 &mdash; Week 12
+Group meetings to discuss your projects. For an out of class activity watch the tutorials below on expressions and complete the optional E9.
 
 #### Lessons
-* Group meetings
+* 9.1: Expressions (look at Digital Resources)
+* Group Meetings
+
+#### Starting
+* E9: Wash, Rinse, Repeat (optional) <!-- [Wash, Rinse, Repeat (optional)]({{ site.baseurl }}/projects#e9) -->
+
+#### Digital References
+* _School of Motion:_ [After Effects Expressions 101](https://www.schoolofmotion.com/blog/after-effects-expressions-101)
+* _School of Motion:_ [Amazing Expressions in After Effects](https://www.schoolofmotion.com/blog/amazing-expressions-in-after-effects)
+* _School of Motion:_ [How to Use the Loop Expression in After Effects](https://www.schoolofmotion.com/blog/loop-expression-after-effects)
+---
+
+### April 22 &mdash; Week 13
+Group critique to discuss your projects.
+
+#### Lessons
+* Group critique
 
 #### Starting
 * Nothing
